@@ -121,7 +121,7 @@ p {
 .menu {
   display: flex;
   padding: 15px;
-  background: gainsboro;
+  background: pink;
   justify-content: center;
   align-items: center;
 }
