@@ -1,0 +1,148 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wc {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.wc2 {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.table {
+  border: 1px solid black;
+}
+
+.cell2,
+.cell3 {
+  width: 200px;
+}
+
+.cell-int1 {
+  width: 25%;
+}
+
+.pd-5 {
+  padding: 5px;
+}
+
+.bt {
+  border-top: 1px solid black;
+}
+
+.bb {
+  border-bottom: 1px solid black;
+}
+
+.bl {
+  border-left: 1px solid black;
+}
+
+.br {
+  border-right: 1px solid black;
+}
+
+.flex1 {
+  flex: 1;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.centr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fw900 {
+  font-weight: 900;
+}
+
+.fdr {
+  flex-direction: row;
+}
+
+.height-el {
+  height: 29px;
+}
+
+h1 {
+  margin: 22px 0;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+h3 {
+  margin: 19px 0;
+}
+
+h1,
+h2,
+h3,
+body main,
+body header,
+body footer {
+  text-align: center;
+}
+
+p {
+  margin: 16px 0;
+}
+
+.mb-18 {
+  margin-bottom: 18px;
+}
+
+.tal {
+  text-align: left;
+}
+
+.ml-18 {
+  margin-left: 18px;
+}
+
+.mt-18 {
+  margin-top: 18px;
+}
+
+.mb-8 {
+  margin-bottom: 8px;
+}
+
+.menu {
+  display: flex;
+  padding: 15px;
+  background: gainsboro;
+  justify-content: center;
+  align-items: center;
+}
+
+ .btn {
+  padding: 10px;
+  border: none;
+  margin-right: 5px;
+  font-size: 14px;
+  border: 2px solid rgba(0, 0, 0, 0);
+  font-weight: bolder;
+  cursor: pointer;
+  background-color: darkgrey;
+  color: white;
+  text-decoration: none;
+}
+
+ .btn:hover {
+  background: deepskyblue;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
